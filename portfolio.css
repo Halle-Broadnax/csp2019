@@ -1,0 +1,122 @@
+body{
+  background-color: black;
+}
+
+h1{
+  Border: 10px double white;
+  background-color: #04f000;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  margin-left:auto;
+  margin-right:auto;
+  width: 45%;
+  font-size: 50px;
+  padding: 15px;
+}
+
+.second{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-bottom: 75px;
+  margin-top: 75px;
+  border: 10px double white;
+
+}
+
+h3{
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  border: 10px double white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  background-color: #ffaa17;
+  font-size: 30px;
+  padding: 10px;
+}
+
+h4{
+  font-family: 'Righteous', cursive;
+  border: 5px double white;
+  color: black;
+  background-color: #ff8ff4;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+  font-size: 35px;
+  text-align: center;
+  padding: 15px;
+}
+
+.spectrumV{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  border: 10px double white;
+}
+
+.description{
+  background-color:#ff8ff4;
+  border: 10px double white;
+  font-family: "Righteous", cursive;
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+
+#spectrum{
+  background-color:#34ebc3;
+}
+
+#one{
+  background-color: #34ebc3;
+}
+
+h5{
+  font-size: 25px;
+  border: 5px double white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 30%;
+}
+
+h6{
+  font-size: 18px;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.story{
+  background-color:#34ebc3;
+  border: 10px double white;
+  font-family: "Righteous", cursive;
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#scottie{
+  background-color: #ff8ff4;
+  width: 40%;
+}
+
+#two{
+  background-color:#ff8ff4;
+}
+.computer{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border: 10px double white;
+}
+

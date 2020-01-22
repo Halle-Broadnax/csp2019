@@ -1,0 +1,78 @@
+body{
+  background-color:black;
+}
+
+h1{
+  Border: 10px double white;
+  background-color:#57b3ff;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  margin-left:auto;
+  margin-right:auto;
+  width: 45%;
+  font-size: 50px;
+  padding: 15px;
+}
+
+.halle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 30px;
+  border: 10px double white;
+}
+
+.broadnax{
+  background-color:#ffd500;
+  border: 10px double white;
+  font-family: "Righteous", cursive;
+  text-align: center;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+.class{
+  background-color:#f57fa5;
+  border: 10px double white;
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.hobby{
+  background-color: #443bff;
+  border: 10px double white;
+  font-family: 'Righteous', cursive;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  font-size: 25px;
+}
+
+
+
+img{
+  display: block;
+  margin-bottom: 30px;
+}
+
+.picture{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  margin-bottom: 30px;
+  border: 10px double white;
+}
